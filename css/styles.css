@@ -1,0 +1,39 @@
+button:hover {
+    cursor: pointer;
+} 
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+#btn_si,
+#btn_no{
+    top:50%;
+    background-color:#ac2020;
+    font-size: 30px;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+}
+
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+video{
+    width: 60%;
+    box-shadow: rgb(233, 46, 13) 16px 16px 100px;
+    border-radius: 3rem;
+    margin: 100px 70px;
+}
+
+.info{
+    text-align: center;
+}
